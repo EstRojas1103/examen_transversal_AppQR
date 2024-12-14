@@ -1,0 +1,2 @@
+# examen_transversal_AppQR
+RegistraApp
